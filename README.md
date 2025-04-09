@@ -1,3 +1,3 @@
-containerStorage.c -> Docker container storage layer comparison \n
-memory_benchmark.c -> Memory management benchmark for CoW performance \n
+containerStorage.c -> Docker container storage layer comparison <br/>
+memory_benchmark.c -> Memory management benchmark for CoW performance <br/>
 readWriteCompare.c -> Windows drive read/write ratio monitoring utility
